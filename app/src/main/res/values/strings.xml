@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Minha Calculadora</string>
+    <string name="logo">logo</string>
+    <string name="numero_1">Numero 1:</string>
+    <string name="numero_2">Numero 2:</string>
+    <string name="digite_um_numero">digite um numero</string>
+    <string name="calcular">Calcular</string>
+    <string name="digite_outro_numero">digite outro numero</string>
+
+    <string-array name="operacoes">
+        <item>soma</item>
+        <item>subtração</item>
+        <item>multiplicação</item>
+        <item>divisão</item>
+    </string-array>
+</resources>
